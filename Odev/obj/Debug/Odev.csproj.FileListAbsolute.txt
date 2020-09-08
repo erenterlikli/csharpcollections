@@ -1,0 +1,12 @@
+C:\Users\Eren\source\repos\Odev\Odev\bin\Debug\Odev.exe.config
+C:\Users\Eren\source\repos\Odev\Odev\bin\Debug\Odev.exe
+C:\Users\Eren\source\repos\Odev\Odev\bin\Debug\Odev.pdb
+C:\Users\Eren\source\repos\Odev\Odev\obj\Debug\Odev.csprojResolveAssemblyReference.cache
+C:\Users\Eren\source\repos\Odev\Odev\obj\Debug\Odev.Form1.resources
+C:\Users\Eren\source\repos\Odev\Odev\obj\Debug\Odev.Form2.resources
+C:\Users\Eren\source\repos\Odev\Odev\obj\Debug\Odev.Form3.resources
+C:\Users\Eren\source\repos\Odev\Odev\obj\Debug\Odev.Properties.Resources.resources
+C:\Users\Eren\source\repos\Odev\Odev\obj\Debug\Odev.csproj.GenerateResource.Cache
+C:\Users\Eren\source\repos\Odev\Odev\obj\Debug\Odev.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\Odev\Odev\obj\Debug\Odev.exe
+C:\Users\Eren\source\repos\Odev\Odev\obj\Debug\Odev.pdb
